@@ -148,3 +148,9 @@ This project is licensed under the MIT License. See the LICENSE file for details
 * [Wav2Vec 2.0](https://huggingface.co/facebook/wav2vec2-base-960h)
 * [FastAPI](https://fastapi.tiangolo.com/) — Web framework
 * [Docker](https://www.docker.com/) — Containerization
+
+## 📬 Contact
+
+If you have any queries, suggestions, or need help regarding this project, feel free to reach out.  
+**📧 Mail me — I’ll be happy to help!**  
+📮 Email: shashirathod2307@gmail.com
